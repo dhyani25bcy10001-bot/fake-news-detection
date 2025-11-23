@@ -177,10 +177,3 @@ article_info(article3, grammar_score, 9).
 article_info(article3, keywords, [government, policy, report]).
 article_info(article3, url, 'reuters.com/world').
 article_info(article3, claims, [economic_growth]).
-
-% Example queries to run:
-% ?- generate_report(article1).
-% ?- generate_report(article2).
-% ?- generate_report(article3).
-% ?- classify(article1, Class).
-% ?- calculate_credibility(article2, Score).
