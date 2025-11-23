@@ -1,4 +1,4 @@
-# fake-news-detection
+# FAKE NEWS DETECTION SYSTEM
 ## OVERVIEW OF THE PROJECT
 -A Prolog-based system to analyze and detect fake news in articles.
 
